@@ -1,0 +1,13 @@
+.idea/
+
+package-lock.json
+
+node_modules/
+__target__/
+
+*.pyc
+*.bak
+*.dat
+*.db
+
+keys.py
