@@ -1,6 +1,8 @@
 # Pythonification of MetaMask Simple Dapp tutorial
 
-## Environment setup
+https://docs.metamask.io/guide/create-dapp.html
+
+## Environment setup:
 
 $ `python3.9 -m venv venv`
 
